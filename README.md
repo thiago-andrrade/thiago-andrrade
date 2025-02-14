@@ -5,7 +5,8 @@
 - 🌍 **Idiomas:** Português (nativo), Inglês (intermediário)
 
 <br>
-### 🏆 Tecnologias principais:
+
+## 🏆 Tecnologias principais:
 - 🔹 AdvPL | Protheus | APIs REST
 - 🔹 JavaScript | Node.js | Angular
 - 🔹 SQL Server | Dashboards
