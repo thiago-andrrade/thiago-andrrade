@@ -8,6 +8,9 @@
 ![Contributions](https://raw.githubusercontent.com/thiago-andrrade/github-contributions-calendar/master/docs/images/calendar-heatmap.png)
 
 
+![Your contributions](https://github-readme-streak-stats.herokuapp.com/?user=thiago-andrrade&theme=radical)
+
+
 ## 🚀 Sobre mim  
 - 💼 Desenvolvedor AdvPL
 - 🌍 **Idiomas:** Português (nativo), Inglês (intermediário)
