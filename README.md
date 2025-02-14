@@ -1,4 +1,5 @@
 # 👋 Bem-vindo ao meu perfil GitHub!  
+![Contributions](https://github.com/SEU_USUARIO/github-calendar/blob/master/docs/images/calendar-heatmap.png)
 
 ## 🚀 Sobre mim  
 - 💼 Desenvolvedor AdvPL
