@@ -17,20 +17,20 @@
  ---
 
 🏁 AdvPL:
- ● API Rest
- ● MVC
- ● Automação
- ● ChatBot
- ● Dashboard
- ● ExecAuto
- ● Gatilhos
- ● Validações
- ● Telas
- ● Workflow
- ● Etiqueta
- ● Relatórios
- ● Ponto de Entrada
- ● Integração de XML/Json/CSV/TXT
+- API Rest
+- MVC
+- Automação
+- ChatBot
+-  Dashboard
+-  ExecAuto
+- Gatilhos
+- Validações
+- Telas
+- Workflow
+- Etiqueta
+- Relatórios
+- Ponto de Entrada
+- Integração de XML/Json/CSV/TXT
 
 📂 Cases de Integração Api:
  🌐  AnyMarket
