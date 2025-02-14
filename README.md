@@ -1,6 +1,3 @@
-# 👋 Bem-vindo ao meu perfil GitHub!  
-![Contributions](https://github-readme-stats.vercel.app/api?username=thiago-andrrade&count_private=true&show_icons=true&theme=radical)
-
 ## 🚀 Sobre mim  
 - 💼 Desenvolvedor AdvPL
 - 🌍 **Idiomas:** Português (nativo), Inglês (intermediário)
