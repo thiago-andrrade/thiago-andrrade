@@ -1,18 +1,5 @@
 # 👋 Bem-vindo ao meu perfil GitHub!  
-![Contributions](https://github.com/thiago-andrrade/github-calendar/blob/master/docs/images/calendar-heatmap.png)
-
-![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thiago-andrrade&theme=radical)
-
-![Contributions](https://raw.githubusercontent.com/san1712/github-contributions-calendar/master/docs/images/calendar-heatmap.png)
-
-![Contributions](https://raw.githubusercontent.com/thiago-andrrade/github-contributions-calendar/master/docs/images/calendar-heatmap.png)
-
-
-![Your contributions](https://github-readme-streak-stats.herokuapp.com/?user=thiago-andrrade&theme=radical)
-
 ![Contributions](https://github-readme-stats.vercel.app/api?username=thiago-andrrade&count_private=true&show_icons=true&theme=radical)
-
-
 
 ## 🚀 Sobre mim  
 - 💼 Desenvolvedor AdvPL
