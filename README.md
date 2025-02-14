@@ -6,13 +6,13 @@
 
 ---
 🏆 Tecnologias principais:
- -🔹 AdvPL | Protheus | APIs REST
- -🔹 JavaScript | Node.js | Angular
- -🔹 SQL Server | Dashboards
+- 🔹 AdvPL | Protheus | APIs REST
+- 🔹 JavaScript | Node.js | Angular
+- 🔹 SQL Server | Dashboards
 
 ⚡ Controle de Versão:
- 🔹 GitHub 
- 🔹 SVN
+- 🔹 GitHub 
+- 🔹 SVN
 
  ---
 
@@ -21,8 +21,8 @@
 - MVC
 - Automação
 - ChatBot
--  Dashboard
--  ExecAuto
+- Dashboard
+- ExecAuto
 - Gatilhos
 - Validações
 - Telas
@@ -32,34 +32,40 @@
 - Ponto de Entrada
 - Integração de XML/Json/CSV/TXT
 
+ ---
+
 📂 Cases de Integração Api:
- 🌐  AnyMarket
- 💻  Jet Commerce
- 📱   WhatsApp
- 📢  Telegram
- 🗺️  Involves Stage
- 📄  Adapcon
- 🔷  ZapSign
- 💼 Cnpjá
- 📓  SintegraWs
- 🏦 Banco Central
- 📮  ViaCep
+- 🌐  AnyMarket
+- 💻  Jet Commerce
+- 📱   WhatsApp
+- 📢  Telegram
+- 🗺️  Involves Stage
+- 📄  Adapcon
+- 🔷  ZapSign
+- 💼 Cnpjá
+- 📓  SintegraWs
+- 🏦 Banco Central
+- 📮  ViaCep
+
+ ---
 
 🏳️ Framework:
- ● Instalação Protheus
- ● Atualização do Ambiente
- ● Migração de Release
- ● Configurador
- ● Apsdu
- ● TSS
- ● License Server
- ● DbAccess
+- Instalação Protheus
+- Atualização do Ambiente
+- Migração de Release
+- Configurador
+- Apsdu
+- TSS
+- License Server
+- DbAccess
+
+ ---
 
 🏁 SQL Server:
- ● Consultas/Querys
- ● Backup/Restore
- ● Jobs
- ● Instalação/Manutenção
+- Consultas/Querys
+- Backup/Restore
+- Jobs
+- Instalação/Manutenção
 
 ---
 
