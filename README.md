@@ -3,6 +3,10 @@
 
 ![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thiago-andrrade&theme=radical)
 
+![Contributions](https://raw.githubusercontent.com/san1712/github-contributions-calendar/master/docs/images/calendar-heatmap.png)
+
+![Contributions](https://raw.githubusercontent.com/thiago-andrrade/github-contributions-calendar/master/docs/images/calendar-heatmap.png)
+
 
 ## 🚀 Sobre mim  
 - 💼 Desenvolvedor AdvPL
