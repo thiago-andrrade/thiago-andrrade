@@ -1,6 +1,9 @@
 # 👋 Bem-vindo ao meu perfil GitHub!  
 ![Contributions](https://github.com/thiago-andrrade/github-calendar/blob/master/docs/images/calendar-heatmap.png)
 
+![Your Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thiago-andrrade&theme=radical)
+
+
 ## 🚀 Sobre mim  
 - 💼 Desenvolvedor AdvPL
 - 🌍 **Idiomas:** Português (nativo), Inglês (intermediário)
