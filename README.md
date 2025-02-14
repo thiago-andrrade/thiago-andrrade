@@ -4,19 +4,16 @@
 - 💼 Desenvolvedor AdvPL
 - 🌍 **Idiomas:** Português (nativo), Inglês (intermediário)
 
----
 ## 🏆 Tecnologias principais:
 - 🔹 AdvPL | Protheus | APIs REST
 - 🔹 JavaScript | Node.js | Angular
 - 🔹 SQL Server | Dashboards
----
-⚡ Controle de Versão:
+
+##⚡ Controle de Versão:
 - 🔹 GitHub 
 - 🔹 SVN
 
- ---
-
-🏁 AdvPL:
+## 🏁 AdvPL:
 - API Rest
 - MVC
 - Automação
@@ -32,9 +29,7 @@
 - Ponto de Entrada
 - Integração de XML/Json/CSV/TXT
 
- ---
-
-📂 Cases de Integração Api:
+## 📂 Cases de Integração Api:
 - 🌐  AnyMarket
 - 💻  Jet Commerce
 - 📱   WhatsApp
@@ -47,9 +42,7 @@
 - 🏦 Banco Central
 - 📮  ViaCep
 
- ---
-
-🏳️ Framework:
+## 🏳️ Framework:
 - Instalação Protheus
 - Atualização do Ambiente
 - Migração de Release
@@ -59,15 +52,11 @@
 - License Server
 - DbAccess
 
- ---
-
-🏁 SQL Server:
+## 🏁 SQL Server:
 - Consultas/Querys
 - Backup/Restore
 - Jobs
 - Instalação/Manutenção
-
----
 
 ## 📫 Entre em Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-andrrade)  
