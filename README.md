@@ -11,9 +11,13 @@
 - 🔹 JavaScript | Node.js | Angular
 - 🔹 SQL Server | Dashboards
 
+<br>
+
 ## ⚡ Controle de Versão:
 - 🔹 GitHub 
 - 🔹 SVN
+
+<br>
 
 ## 🏁 AdvPL:
 - API Rest
@@ -31,6 +35,8 @@
 - Ponto de Entrada
 - Integração de XML/Json/CSV/TXT
 
+<br>
+
 ## 📂 Cases de Integração Api:
 - 🌐  AnyMarket
 - 💻  Jet Commerce
@@ -44,6 +50,8 @@
 - 🏦 Banco Central
 - 📮  ViaCep
 
+<br>
+
 ## 🏳️ Framework:
 - Instalação Protheus
 - Atualização do Ambiente
@@ -54,11 +62,15 @@
 - License Server
 - DbAccess
 
+<br>
+
 ## 🏁 SQL Server:
 - Consultas/Querys
 - Backup/Restore
 - Jobs
 - Instalação/Manutenção
+
+<br>
 
 ## 📫 Entre em Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-andrrade)  
