@@ -6,13 +6,15 @@
 
 ---
 🏆 Tecnologias principais:
- 🔹 AdvPL | Protheus | APIs REST
- 🔹 JavaScript | Node.js | Angular
- 🔹 SQL Server | Dashboards
+ -🔹 AdvPL | Protheus | APIs REST
+ -🔹 JavaScript | Node.js | Angular
+ -🔹 SQL Server | Dashboards
 
 ⚡ Controle de Versão:
  🔹 GitHub 
  🔹 SVN
+
+ ---
 
 🏁 AdvPL:
  ● API Rest
