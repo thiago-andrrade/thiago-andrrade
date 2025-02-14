@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Bem-vindo ao meu perfil GitHub!  
 
-<!--
-**thiago-andrrade/thiago-andrrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Estatísticas do GitHub  
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiago-andrrade&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-andrrade&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim  
+- 🎓 **Formação:** Desenvolvedor FullStack  
+- 💼 **Atualmente:** Focado em Backend  
+- 💡 **Habilidades:** Java, Spring Boot, PostgreSQL  
+- 🌍 **Idiomas:** Português (nativo), Inglês (intermediário)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+---
+
+## 📫 Entre em Contato  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-andrrade)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)  
+
