@@ -6,7 +6,6 @@
 ## 🏆 Tecnologias principais:
 - 🔹 Linguagens & Frameworks: AdvPL, JavaScript, Node.js, Angular
 - 🔹 Banco de Dados: SQL Server
-- 🔹 Versionamento: GitHub, SVN
 
 <br>
 
